@@ -46,4 +46,3 @@ group :development, :test do
 end
 
 gem 'pg'
-ruby "2.2.2"
